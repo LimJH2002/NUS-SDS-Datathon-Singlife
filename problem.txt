@@ -4,3 +4,12 @@ Singlife has observed a concerning trend in the customer journey: potential poli
 2. uncover critical touchpoints(factors) contribute to customer drop-off
 3. identify opportunities to streamline the application process and personalise communication
 4. predict customer satisfaction and conversion rates
+
+1. Correlation matrix -> For insights but not selecting features
+
+1. neural network
+2. decision trees
+3. pca -> feature selection
+4. svm
+5. Knn
+6. 
