@@ -12,4 +12,3 @@ Singlife has observed a concerning trend in the customer journey: potential poli
 3. pca -> feature selection
 4. svm
 5. Knn
-6. 
